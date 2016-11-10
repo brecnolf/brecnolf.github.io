@@ -1,4 +1,4 @@
- Site settings
+# Site settings
 # -------------
 baseurl     : "" # the subpath of your site, e.g. /blog/
 colour      : primary
@@ -10,7 +10,7 @@ port        : 4000
 # ---
 title        : &title NMDAD-I
 description  : "New Media Design & Development I at Artevelde University College Ghent"
-author       : Brecht Nolf
+author       : Philippe De Pauw - Waterschoot
 tracking_id  : "UA-79628300-1"
 # url        :
 # image      :
